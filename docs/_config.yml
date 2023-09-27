@@ -1,5 +1,5 @@
 theme                    : minimal-mistakes-jekyll
-minimal_mistakes_skin.   : "dark" 
+minimal_mistakes_skin    : "dark" 
 locale                   : "en-US" 
 title                    : "Kustom Imports" 
 title_separator          : "-" 
@@ -7,7 +7,6 @@ subtitle                 : "Jazz up your Android device with our Kustom Imports!
 name                     : "TBR Development" 
 description              : "Open-SourceDevelopmentandCustomization" 
 url                      : "https://tbr-development.github.io/Kustom"
-baseurl                  : "/" 
 repository               : "tbr-development/Kustom"
 footer: 
    links: 

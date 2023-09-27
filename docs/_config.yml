@@ -1,9 +1,8 @@
 title: Kustom
 description: A collection of Kustom Imports
-
+url: https://tbr-development.github.io/Kustom
 remote_theme: just-the-docs
-
 color_scheme: dark
-
+permalink: pretty
 pages:
  - index.md

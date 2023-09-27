@@ -1,4 +1,4 @@
-remote_theme             : "mmistakes/miminal-mistakes"
+remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" 
 locale                   : "en-US" 
 title                    : "Kustom Imports" 

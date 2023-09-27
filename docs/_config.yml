@@ -1,7 +1,15 @@
-title: Kustom
-description: A collection of Kustom Imports
-url: https://tbr-development.github.io/Kustom
-theme: minima
-permalink: pretty
-pages:
- - index.md
+minimal_mistakes_skin    : "dark" 
+locale                   : "en-US" 
+title                    : "Kustom Imports" 
+title_separator          : "-" 
+subtitle                 : "Jazz up your Android device with our Kustom Imports!"
+name                     : "TBR Development" 
+description              : "Open-SourceDevelopmentandCustomization" 
+url                      : "https://tbr-development.github.io/Kustom"
+baseurl                  : "/" 
+repository               : "tbr-development/Kustom"
+footer: 
+   links: 
+     - label: "GitHub" 
+       icon: "fab fa-fw fa-github-square" 
+       url: "https://github.com/tbr-development/Kustom"

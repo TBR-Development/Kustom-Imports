@@ -8,7 +8,7 @@ gh_edit_link_text: "Edit this page on GitHub"
 gh_edit_repository: "https://github.com/just-the-docs/just-the-docs" # the github URL for your repo 
 gh_edit_branch: "main" 
 gh_edit_view_mode: "tree"
-gh_edit_src: "docs"
+gh_edit_source: "docs"
 
 
 color_scheme: dark

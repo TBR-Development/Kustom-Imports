@@ -1,9 +1,8 @@
 ---
-layout: page
+title: home
+layout: home
+permalink: /
 ---
-
-# Kustom
-Imports for use with Kustom.
 
 ## Instructions
 

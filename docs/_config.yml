@@ -4,3 +4,6 @@ description: A collection of Kustom Imports
 remote_theme: just-the-docs
 
 color_scheme: dark
+
+pages:
+ - index.md

@@ -14,3 +14,5 @@ search                      :
   rel_url                   : true
   button                    : false
 enable_copy_code_button     : true
+pages                       :
+  - index.md

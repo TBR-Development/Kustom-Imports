@@ -1,6 +1,7 @@
-title: Kustom Imports
-
-remote_theme: just-the-docs/just-the-docs 
-color_scheme: "dark" 
-
-search_enabled: false
+title             : Kustom Imports
+description       : Spice up your Android device with our collection of Kustom imports
+repository        : tbr-development/Kustom  
+permalink         : pretty
+remote_theme      : just-the-docs/just-the-docs 
+color_scheme      : "dark" 
+search_enabled    : true

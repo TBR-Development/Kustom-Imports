@@ -1,5 +1,5 @@
 ---
-title: home
+title: Kustom Imports
 layout: home
 permalink: /
 ---

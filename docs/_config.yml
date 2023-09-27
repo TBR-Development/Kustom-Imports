@@ -1,15 +1,5 @@
-theme                    : minimal-mistakes-jekyll
-minimal_mistakes_skin    : "dark" 
-locale                   : "en-US" 
-title                    : "Kustom Imports" 
-title_separator          : "-" 
-subtitle                 : "Jazz up your Android device with our Kustom Imports!"
-name                     : "TBR Development" 
-description              : "Open-SourceDevelopmentandCustomization" 
-url                      : "https://tbr-development.github.io/Kustom"
-repository               : "tbr-development/Kustom"
-footer: 
-   links: 
-     - label: "GitHub" 
-       icon: "fab fa-fw fa-github-square" 
-       url: "https://github.com/tbr-development/Kustom"
+title: Kustom Imports
+title_separator: "-"
+locale: "en-US"
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: dark

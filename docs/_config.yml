@@ -14,3 +14,8 @@ color_scheme: dark
 
 last_edit_timestamp: true
 last_edit_time_format: "%b %e %Y at %I:%M %p"
+
+back_to_top: true 
+ back_to_top_text: "Back to top" 
+  
+ footer_content: "Copyright &copy; TBR Development. Distributed by an <a href=\"https://github.com/tbr-development/Kustom/tree/main/LICENSE\">MIT license</a>."

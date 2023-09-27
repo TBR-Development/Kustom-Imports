@@ -11,14 +11,6 @@ permalink: /
  * Copy the contents of the `Kustom` folder into your own `Kustom` folder.
  * Load your desired import(s).
 
-## Projects
-
- * **Kustom Luxury**
-![][KustomLuxury]
-* **Material Design**
-![][MaterialDesign]
-
-
 
 ## Links
  * [GitHub][GitHub]

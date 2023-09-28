@@ -1,24 +1,40 @@
-title                       : Kustom Imports
-description                 : Spice up your Android device with our collection of Kustom imports
-repository                  : tbr-development/Kustom-Imports
-permalink                   : pretty
-remote_theme                : just-the-docs/just-the-docs 
-color_scheme                : "dark" 
-search_enabled              : true
-search                      :
-  heading_level             : 2
-  previews                  : 2
-  preview_words_before      : 3
-  preview_words_after       : 3
-  tokenizer_separator       : /[\s/]+/
-  rel_url                   : true
-  button                    : true
-enable_copy_code_button     : true
-last_edit_timestamp         : true
-last_edit_time_format       : "%b %e %Y at %I:%M %p"
+title                        : Kustom Imports
+description                  : 
+ > Spice up your Android device with our collection of Kustom imports
+repository                   : tbr-development/Kustom-Imports
+permalink                    : pretty
+remote_theme                 : just-the-docs/just-the-docs 
+color_scheme                 : "dark" 
+search_enabled               : true
+search                       :
+  heading_level              : 2
+  previews                   : 2
+  preview_words_before       : 3
+  preview_words_after        : 3
+  tokenizer_separator        : /[\s/]+/
+  rel_url                    : true
+  button                     : true
+enable_copy_code_buttonn     : true
+last_edit_timestamp          : true
+last_edit_time_format        : "%b %e %Y at %I:%M %p"
 gh_edit_link: true
 gh_edit_link_text: "Edit this page on GitHub."
 gh_edit_repository: "https://github.com/tbr-development/kustom-imports"
 gh_edit_branch: "main"
 gh_edit_source: docs
 gh_edit_view_mode: "tree"
+back_to_top                   : true
+back_to_top_text              : "Back to top"  
+header_pages                  :
+  - index.md
+  - projects.md
+  - links.md
+  - 404.md
+plugins                       :
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+kramdown                      :
+  syntax_highlighter_opts     :
+    block                     :
+      line_numbers            : false
+

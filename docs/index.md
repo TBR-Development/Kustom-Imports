@@ -1,6 +1,6 @@
 ---
-title: Kustom Imports
-layout: default
+title: Home
+layout: home
 permalink: /
 ---
 

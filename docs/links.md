@@ -5,7 +5,9 @@ permalink: /links
 ---
 
 [GitHub][URL_1]
+
 [Discord][URL_1]
+
 [Repository][URL_3]
 
 

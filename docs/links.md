@@ -2,6 +2,7 @@
 title: Links
 layout: page
 permalink: /links
+nav_order: 3
 ---
 
  * [TBR Development GitHub][URL_1]

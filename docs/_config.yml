@@ -3,7 +3,7 @@ description                   : >
    Spice up your Android device with our collection of Kustom imports
 repository                    : tbr-development/Kustom-Imports
 baseUrl                       : "/Kustom-Imports"
-url                           : "//tbr-development.github.io/Kustom-Imports" 
+url                           : "//tbr-development.github.io/" 
 permalink                     : pretty
 remote_theme                  : just-the-docs/just-the-docs 
 color_scheme                  : "dark" 

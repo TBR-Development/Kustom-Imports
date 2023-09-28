@@ -5,7 +5,7 @@ permalink: /projects
 ---
 
 
-| Name | Description | Author |
+| Name | Preview | Author |
 | --- | --- | --- |
-| Kustom Luxury | ... | PhantomNimbi |
-| Material Design | ... | PhantomNimbi |
+| Kustom Luxury | ![]() | PhantomNimbi |
+| Material Design | ![]() | PhantomNimbi |

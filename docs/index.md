@@ -11,9 +11,4 @@ permalink: /
  * Copy the contents of the `Kustom` folder into your own `Kustom` folder.
  * Load your desired import(s).
 
-
-## Links
- * [GitHub][GitHub]
-
-[GitHub]: https://github.com/TBR-Development/Kustom
   

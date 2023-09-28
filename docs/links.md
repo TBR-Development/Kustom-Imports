@@ -4,9 +4,9 @@ layout: page
 permalink: /links
 ---
 
-* [GitHub][URL_1]
-* [Discord][URL_1]
-* [Repo][URL_3]
+[GitHub][URL_1]
+[Discord][URL_1]
+[Repository][URL_3]
 
 
 

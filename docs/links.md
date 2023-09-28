@@ -5,9 +5,12 @@ permalink: /links
 ---
 
 * [GitHub][URL_1]
-* [Discord][URL_2]
+* [Discord][URL_1]
+* [Repo][URL_3]
 
 
 
-[URL_1]: https://github.com/TBR-Development/Kustom
+
+[URL_1]: https://github.com/TBR-Development
 [URL_2]: https;//dsc.gg/tbr-development
+[URL_3]: https://github.com/tbr-development/Kustom

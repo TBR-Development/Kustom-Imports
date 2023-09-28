@@ -13,4 +13,4 @@ permalink: /links
 
 [URL_1]: https://github.com/TBR-Development
 [URL_2]: https;//dsc.gg/tbr-development
-[URL_3]: https://github.com/TBR-Development/Kustom/archive/refs/heads/main.zip
+[URL_3]: https://github.com/TBR-Development/Kustom-Imports/archive/refs/heads/main.zip

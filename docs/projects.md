@@ -5,7 +5,7 @@ permalink: /projects
 ---
 
 
-| Name | Path |
-| --- | --- |
-| Kustom Luxury | [projects/Kustom Luxury/](./projects/Kustom%20Luxury/) |
-| Material Design | [projects/Material Design/](./projects/Material%20Design/) |
+| Name | Path | Author |
+| --- | --- | --- |
+| Kustom Luxury | [projects/Kustom Luxury/](./projects/Kustom%20Luxury/) | @PhantomNimbi |
+| Material Design | [projects/Material Design/](./projects/Material%20Design/) | @PhantomNimbi |

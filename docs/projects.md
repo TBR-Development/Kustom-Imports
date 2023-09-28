@@ -1,3 +1,9 @@
+---
+title: projects
+layout: page
+permalink: /projects
+---
+
 * **Kustom Luxury**
 ![][KustomLuxury]
 * **Material Design**

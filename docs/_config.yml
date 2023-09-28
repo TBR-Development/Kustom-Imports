@@ -17,3 +17,5 @@ enable_copy_code_button     : true
 pages                       :
   - index.md
   - projects.md
+  - links.md
+  - 404.md

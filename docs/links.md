@@ -5,7 +5,7 @@ permalink: /links
 ---
 
  * [GitHub][URL_1]
- * [Discord][URL_1]
+ * [TBR Development Discord][URL_1]
  * [Download][URL_3]
 
 ---

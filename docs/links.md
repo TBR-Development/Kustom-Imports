@@ -7,7 +7,7 @@ nav_order: 3
 
 ## Downloads
 
- * [Download Kustom Imports][URL_1]
+ * [Kustom Imports][URL_1]
 
 ## TBR Development
  

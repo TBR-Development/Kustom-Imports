@@ -4,9 +4,9 @@ layout: page
 permalink: /links
 ---
 
- * [GitHub][URL_1]
+ * [TBR Development GitHub][URL_1]
  * [TBR Development Discord][URL_1]
- * [Download][URL_3]
+ * [Download Kustom Imports][URL_3]
 
 ---
 

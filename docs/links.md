@@ -25,7 +25,7 @@ nav_order: 3
 
 [URL_1]: https://github.com/TBR-Development/Kustom-Imports/archive/refs/heads/main.zip
 [URL_2]: https://github.com/TBR-Development
-[URL_3]: https://dsc.gg/tbr-development
+[URL_3]: https://dsc.gg/the-back-room
 [URL_4]: https://docs.kustom.rocks/
 [URL_5]: https://kustom.rocks/discord
 [URL_6]: https://reddit.com/r/Kustom
